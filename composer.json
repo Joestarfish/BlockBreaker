@@ -1,0 +1,19 @@
+{
+	"name": "joestarfish/block-breaker",
+	"description": "A PMMP plugin that allows you to choose what items can break specific blocks or prevent some blocks from being destroyed",
+	"type": "project",
+	"license": "MIT",
+	"require-dev": {
+		"pocketmine/pocketmine-mp": "^5.4"
+	},
+	"autoload": {
+		"psr-4": {
+			"Joestarfish\\FakePearl\\": "src/"
+		}
+	},
+	"authors": [
+		{
+			"name": "Joestarfish"
+		}
+	]
+}
