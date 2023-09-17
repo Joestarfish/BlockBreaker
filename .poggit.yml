@@ -1,0 +1,9 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Joestarfish/BlockBreaker
+build-by-default: true
+branches:
+- main
+projects:
+  BlockBreaker:
+    path: ""
+    icon: https://cdn-icons-png.flaticon.com/512/2041/2041033.png
+...
